@@ -1,0 +1,95 @@
+#Vue Js exclude files
+Frontend/node_modules
+
+# Build Folders (The bin and obj folders)
+Backend/bin/
+Backend/obj/
+
+# User-specific files
+Backend/*.rsuser
+Backend/*.suo
+Backend/*.user
+Backend/*.userosscache
+Backend/*.sln.docstates
+
+# Mono Auto Generated Files
+Backend/mono_crash.*
+
+# Windows image file caches
+Backend/Thumbs.db
+Backend/ehthumbs.db
+
+# Folder config file
+Backend/Desktop.ini
+
+# Recycle Bin used on file shares
+Backend/$RECYCLE.BIN/
+
+# VS Code directories
+Backend/.vs/
+Backend/.vs/*
+
+# Local History for Visual Studio
+Backend/.localhistory/
+
+# Windows crash logs
+Backend/*.stackdump
+
+# Visual Studio 2019 auto-generated files
+Backend/.vscode/
+Backend/.vscode/*
+
+# Rider
+Backend/.idea/
+Backend/*.sln.iml
+
+# DotNetToolSettings
+Backend/.dotnet_tool/
+
+# Log files
+Backend/*.log
+
+# NuGet Packages
+Backend/*.nupkg
+Backend/*.snupkg
+
+# .NET Files
+Backend/project.lock.json
+Backend/project.fragment.lock.json
+Backend/artifacts/
+
+# ASP.NET Scaffolding
+Backend/ScaffoldingReadMe.txt
+
+# StyleCop
+Backend/StyleCopReport.xml
+
+# MSTest test results
+Backend/TestResult.xml
+Backend/TestResults/
+
+# NUnit
+Backend/*.VisualState.xml
+Backend/TestResult.xml
+
+# Build Results of an MSBuild Task
+Backend/*.cache
+Backend/*.tasks
+
+# Auto-generated UI files
+Backend/*.designer.cs
+
+# Entity Framework files
+Backend/*.edmx.sql
+Backend/*.edmx.diagram
+
+# Azure Web App publish settings
+Backend/PublishProfiles/
+
+# npm package management
+Backend/node_modules/
+Backend/npm-debug.log
+Backend/yarn-error.log
+
+# ASP.NET dynamic folders
+Backend/wwwroot/
