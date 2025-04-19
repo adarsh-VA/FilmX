@@ -52,3 +52,7 @@ Now time to run frontend server.
 
 *Edit Movie*
 <img alt="Logo" src="https://github.com/adarsh-VA/FilmX/blob/main/Screenshots/editMovie.png" />
+
+## My Portfolio
+Check out my full-stack projects at [adarshvodnala.vercel.app](https://adarshvodnala.vercel.app)
+
